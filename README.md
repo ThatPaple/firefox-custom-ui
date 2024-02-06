@@ -5,6 +5,7 @@ This is repo is more of a ricing project for Firefox. I do not plan to maintain 
 
 CSS Files : 
 <hr>
+
 paps-declutter-ui.css
 - Removes a massive portion of UI elements
 
