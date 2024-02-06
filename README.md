@@ -1,7 +1,10 @@
 # firefox-custom-ui
 
-CSS Files : 
+This is repo is more of a ricing project for Firefox. I do not plan to maintain this, but, I do plan to create something out of this newfound knowledge eventually.
 
+
+CSS Files : 
+<hr>
 paps-declutter-ui.css
 - Removes a massive portion of UI elements
 
